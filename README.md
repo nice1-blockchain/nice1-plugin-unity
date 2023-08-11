@@ -1,4 +1,5 @@
-# About NICE1
+# [DEPRECATED]
+# About NICE1 
 
 NICE1 is a blockchain project, which aims to decentralize the video games industries. We offer a new NFT feature, that provides a valuable system of video games sales.
 
